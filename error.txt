@@ -1,0 +1,220 @@
+Traceback (most recent call last):
+  File "E:/python-jianshu/��Ͷ���.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 68, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
+Traceback (most recent call last):
+  File "E:/python-jianshu/类和对象.py", line 69, in <module>
+    print(dog1.name)
+AttributeError: 'Dog' object has no attribute 'name'
