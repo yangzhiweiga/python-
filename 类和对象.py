@@ -394,3 +394,26 @@ class Student5(object):
 stu = Student5('鲁班', 18)('李白')
 
 stu1 = Student5('鲁班', 18)
+
+
+# 单下划线和双下划线属性的区别
+# 单下划线开始的成员变量叫做保护变量意思是只有类对象和子类对象自己能访问到这些变量
+# 双下划线开始的是私有成员意思是只有类对象自己能访问连子类对象也不能访问到这个变量
+class Foo(object):
+    def __init__(self):
+        pass
+
+    def public_method(self):
+        print('这是一个公开的方法')
+        self.__fullprivate_method()
+
+    def __fullprivate_method(self):
+        print('这是一个私有方法')
+
+    def _halfprivate_method(self):
+        print('这是一个受保护的方法')
+
+
+f = Foo()
+f.public_method()
+f._halfprivate_method()
