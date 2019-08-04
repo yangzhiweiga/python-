@@ -393,4 +393,4 @@ class Student5(object):
 
 stu = Student5('鲁班', 18)('李白')
 
-# 练习
+stu1 = Student5('鲁班', 18)
