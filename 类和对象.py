@@ -417,3 +417,112 @@ class Foo(object):
 f = Foo()
 f.public_method()
 f._halfprivate_method()
+
+
+# 面向对象和pygame
+# 多继承
+# 1、多继承：让一个类同时继承多个类
+# 2、多态:一个事物的多种形态；一个类实例的相同方法在不同情况下有不同的表现形式
+class Animal1(object):
+    pass
+
+
+class Dog1(Animal1):
+    pass
+
+
+class Cat1(Animal1):
+    pass
+
+
+# isinstance():判断一个对象是否属于某种类型
+a = []
+b = Animal1()
+c = Cat1()
+print(isinstance(a, list))
+print(isinstance(b, Animal1))  # True
+print(isinstance(b, Dog1))  # False
+print(isinstance(c, Cat1))
+
+
+# 运算符重载
+# 运算符重载：python中运算符实质就是在调用相应的魔术方法；在不同的类中实现同一个运算符对应的魔术方法
+
+class Student6(object):
+    def __init__(self, name='', score=0, age=0):
+        self.name = name
+        self.score = score
+        self.age = age
+
+    def __add__(self, other):
+        return self.score + other.score
+
+    def __sub__(self, other):
+        return self.score - other.score
+
+    def __lt__(self, other):
+        return self.score < other.score
+
+    def __gt__(self, other):
+        return self.score > other.score
+
+
+stu6 = Student6('张三', 100, 32)
+stu7 = Student6('李四', 90, 25)
+
+print(stu6 + stu7)
+
+
+# 多态练习
+class Person6(object):
+    def feedAnimal(self, ani):
+        print("喂动物：", ani.name)
+        ani.eat()
+
+
+class Animal6(object):
+    def __init__(self, name):
+        self.name = name
+
+    def eat(self):
+        print("eating")
+
+
+class Cat6(Animal6):
+    def __init__(self, name):
+        super(Cat6, self).__init__(name)
+
+
+class Dog6(Animal6):
+    def __init__(self, name):
+        super(Dog6, self).__init__(name)
+
+
+p = Person6()
+c = Cat6("小白")
+p.feedAnimal(c)
+
+d = Dog6("旺财")
+p.feedAnimal(d)
+
+
+# 单例模式
+class Person7(object):
+    instance = None
+
+    init_flag = False
+
+    def __init__(self):
+        if Person7.init_flag:
+            return
+        print('进行初始化操作')
+        Person7.init_flag = True
+
+    def __new__(cls, *args, **kwargs):
+        if cls.instance is None:
+            cls.instance = super().__new__(cls)
+        return cls.instance
+
+
+person1 = Person7()
+person2 = Person7()
